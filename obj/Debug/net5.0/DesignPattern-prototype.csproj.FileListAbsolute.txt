@@ -1,0 +1,15 @@
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/bin/Debug/net5.0/DesignPattern-prototype.deps.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/bin/Debug/net5.0/DesignPattern-prototype.runtimeconfig.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/bin/Debug/net5.0/DesignPattern-prototype.runtimeconfig.dev.json
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/bin/Debug/net5.0/DesignPattern-prototype.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/bin/Debug/net5.0/ref/DesignPattern-prototype.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/bin/Debug/net5.0/DesignPattern-prototype.pdb
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/DesignPattern-prototype.csprojAssemblyReference.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/DesignPattern-prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/DesignPattern-prototype.AssemblyInfoInputs.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/DesignPattern-prototype.AssemblyInfo.cs
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/DesignPattern-prototype.csproj.CoreCompileInputs.cache
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/DesignPattern-prototype.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/ref/DesignPattern-prototype.dll
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/DesignPattern-prototype.pdb
+/Users/riyadalghamdi/Desktop/TuwaiqBootcamp/Tuwaiq-DesignPatterns/projects/DesignPattern-prototype/obj/Debug/net5.0/DesignPattern-prototype.genruntimeconfig.cache
