@@ -1,0 +1,12 @@
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/bin/Debug/netcoreapp3.1/Prototype_design_pattern.deps.json
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/bin/Debug/netcoreapp3.1/Prototype_design_pattern.runtimeconfig.json
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/bin/Debug/netcoreapp3.1/Prototype_design_pattern.runtimeconfig.dev.json
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/bin/Debug/netcoreapp3.1/Prototype_design_pattern.dll
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/bin/Debug/netcoreapp3.1/Prototype_design_pattern.pdb
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/obj/Debug/netcoreapp3.1/Prototype_design_pattern.csprojAssemblyReference.cache
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/obj/Debug/netcoreapp3.1/Prototype_design_pattern.AssemblyInfoInputs.cache
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/obj/Debug/netcoreapp3.1/Prototype_design_pattern.AssemblyInfo.cs
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/obj/Debug/netcoreapp3.1/Prototype_design_pattern.csproj.CoreCompileInputs.cache
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/obj/Debug/netcoreapp3.1/Prototype_design_pattern.dll
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/obj/Debug/netcoreapp3.1/Prototype_design_pattern.pdb
+/Users/hanans/Desktop/Tuwaiq/lessons/WEEK6/Prototype_design_pattern/Prototype_design_pattern/obj/Debug/netcoreapp3.1/Prototype_design_pattern.genruntimeconfig.cache
