@@ -1,36 +1,53 @@
-﻿using System;
+using System;
 
-namespace DesignPatren2
+namespace designpattren_2
 {
-    public class singleton
+    public class employee
     {
-        private static singleton instance;
-        private singleton() { }
-        public static singleton getInstance()
+        public string name;
+        public int age;
+        public info depId;
+        public employee(string name, int age, int id)
         {
-            if (instance == null)
-            {
-                instance = new singleton();
-            }
-            return instance;
+            this.name = name;
+            this.age = age;
+            this.depId = new info(id);
+        }
+        public object Shallowcopy()
+        {
+            return (employee)this.MemberwiseClone();
+        }
+        public employee DeepCopy()
+        {
+            employee other = (employee)this.MemberwiseClone();
+            employee s1 = new employee(this.name, this.age, depId.id);
+            return s1;
         }
     }
-    class Program
+    public class info
     {
-        static void Main(string[] args)
+        public int id;
+        public info(int id)
         {
-            singleton instance1 = singleton.getInstance();
-            singleton instance2 = singleton.getInstance();
-            Console.WriteLine(instance1);
-            Console.WriteLine(instance2);
-            if (instance1 == instance2)
-            {
-                Console.WriteLine("same instance");
-            }
-            else
-            {
-                Console.WriteLine("are not the same instance");
-            }
+            this.id = id;
+        }
+    }
+    class MainClass
+    {
+        public static void Main(string[] args)
+        {
+            employee employee1 = new employee("Amal", 25, 501);
+            employee employee2 = (employee)employee1.Shallowcopy();
+            employee2.depId.id = 3;
+            Console.WriteLine(employee2.depId.id);
+            Console.WriteLine(employee1.depId.id);
+            employee employee3 = new employee("Ahmed", 35, 556);
+            Console.WriteLine(employee3.depId.id);
+            employee employee4 = (employee)employee1.DeepCopy();
+            employee4.depId.id = 6;
+            Console.WriteLine(employee4.depId.id);
+            Console.WriteLine(employee1.depId.id);
         }
     }
 }
+
