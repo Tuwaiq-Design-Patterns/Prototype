@@ -1,0 +1,16 @@
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\bin\Debug\net5.0\PrototypeDP.exe
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\bin\Debug\net5.0\PrototypeDP.deps.json
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\bin\Debug\net5.0\PrototypeDP.runtimeconfig.json
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\bin\Debug\net5.0\PrototypeDP.runtimeconfig.dev.json
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\bin\Debug\net5.0\PrototypeDP.dll
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\bin\Debug\net5.0\ref\PrototypeDP.dll
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\bin\Debug\net5.0\PrototypeDP.pdb
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\PrototypeDP.csprojAssemblyReference.cache
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\PrototypeDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\PrototypeDP.AssemblyInfoInputs.cache
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\PrototypeDP.AssemblyInfo.cs
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\PrototypeDP.csproj.CoreCompileInputs.cache
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\PrototypeDP.dll
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\ref\PrototypeDP.dll
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\PrototypeDP.pdb
+C:\Users\Ranee\Desktop\Tuwaiq\PROJECTS\Builder\PrototypeDP\PrototypeDP\obj\Debug\net5.0\PrototypeDP.genruntimeconfig.cache
