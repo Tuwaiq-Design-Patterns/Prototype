@@ -1,0 +1,16 @@
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\bin\Debug\net5.0\PrototypeDrill.exe
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\bin\Debug\net5.0\PrototypeDrill.deps.json
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\bin\Debug\net5.0\PrototypeDrill.runtimeconfig.json
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\bin\Debug\net5.0\PrototypeDrill.runtimeconfig.dev.json
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\bin\Debug\net5.0\PrototypeDrill.dll
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\bin\Debug\net5.0\ref\PrototypeDrill.dll
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\bin\Debug\net5.0\PrototypeDrill.pdb
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\PrototypeDrill.csprojAssemblyReference.cache
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\PrototypeDrill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\PrototypeDrill.AssemblyInfoInputs.cache
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\PrototypeDrill.AssemblyInfo.cs
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\PrototypeDrill.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\PrototypeDrill.dll
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\ref\PrototypeDrill.dll
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\PrototypeDrill.pdb
+C:\Users\lenovo1\RiderProjects\PrototypeDrill\PrototypeDrill\obj\Debug\net5.0\PrototypeDrill.genruntimeconfig.cache
