@@ -1,0 +1,13 @@
+C:\Users\b0c0a\source\repos\Design\Design\bin\Debug\netcoreapp3.1\Design.exe
+C:\Users\b0c0a\source\repos\Design\Design\bin\Debug\netcoreapp3.1\Design.deps.json
+C:\Users\b0c0a\source\repos\Design\Design\bin\Debug\netcoreapp3.1\Design.runtimeconfig.json
+C:\Users\b0c0a\source\repos\Design\Design\bin\Debug\netcoreapp3.1\Design.runtimeconfig.dev.json
+C:\Users\b0c0a\source\repos\Design\Design\bin\Debug\netcoreapp3.1\Design.dll
+C:\Users\b0c0a\source\repos\Design\Design\bin\Debug\netcoreapp3.1\Design.pdb
+C:\Users\b0c0a\source\repos\Design\Design\obj\Debug\netcoreapp3.1\Design.csprojAssemblyReference.cache
+C:\Users\b0c0a\source\repos\Design\Design\obj\Debug\netcoreapp3.1\Design.AssemblyInfoInputs.cache
+C:\Users\b0c0a\source\repos\Design\Design\obj\Debug\netcoreapp3.1\Design.AssemblyInfo.cs
+C:\Users\b0c0a\source\repos\Design\Design\obj\Debug\netcoreapp3.1\Design.csproj.CoreCompileInputs.cache
+C:\Users\b0c0a\source\repos\Design\Design\obj\Debug\netcoreapp3.1\Design.dll
+C:\Users\b0c0a\source\repos\Design\Design\obj\Debug\netcoreapp3.1\Design.pdb
+C:\Users\b0c0a\source\repos\Design\Design\obj\Debug\netcoreapp3.1\Design.genruntimeconfig.cache
