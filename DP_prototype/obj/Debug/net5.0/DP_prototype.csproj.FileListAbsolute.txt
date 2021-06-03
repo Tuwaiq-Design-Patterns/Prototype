@@ -1,0 +1,15 @@
+/Users/afra/Projects/DP_prototype/DP_prototype/bin/Debug/net5.0/DP_prototype.deps.json
+/Users/afra/Projects/DP_prototype/DP_prototype/bin/Debug/net5.0/DP_prototype.runtimeconfig.json
+/Users/afra/Projects/DP_prototype/DP_prototype/bin/Debug/net5.0/DP_prototype.runtimeconfig.dev.json
+/Users/afra/Projects/DP_prototype/DP_prototype/bin/Debug/net5.0/DP_prototype.dll
+/Users/afra/Projects/DP_prototype/DP_prototype/bin/Debug/net5.0/ref/DP_prototype.dll
+/Users/afra/Projects/DP_prototype/DP_prototype/bin/Debug/net5.0/DP_prototype.pdb
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/DP_prototype.csprojAssemblyReference.cache
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/DP_prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/DP_prototype.AssemblyInfoInputs.cache
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/DP_prototype.AssemblyInfo.cs
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/DP_prototype.csproj.CoreCompileInputs.cache
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/DP_prototype.dll
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/ref/DP_prototype.dll
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/DP_prototype.pdb
+/Users/afra/Projects/DP_prototype/DP_prototype/obj/Debug/net5.0/DP_prototype.genruntimeconfig.cache
