@@ -1,0 +1,15 @@
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/bin/Debug/net5.0/Week2Copy.deps.json
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/bin/Debug/net5.0/Week2Copy.runtimeconfig.json
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/bin/Debug/net5.0/Week2Copy.runtimeconfig.dev.json
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/bin/Debug/net5.0/Week2Copy.dll
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/bin/Debug/net5.0/ref/Week2Copy.dll
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/bin/Debug/net5.0/Week2Copy.pdb
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/Week2Copy.csprojAssemblyReference.cache
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/Week2Copy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/Week2Copy.AssemblyInfoInputs.cache
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/Week2Copy.AssemblyInfo.cs
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/Week2Copy.csproj.CoreCompileInputs.cache
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/Week2Copy.dll
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/ref/Week2Copy.dll
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/Week2Copy.pdb
+/Users/taj/Desktop/Tuwaiq/Design Pattern/Week2Copy/Week2Copy/obj/Debug/net5.0/Week2Copy.genruntimeconfig.cache
