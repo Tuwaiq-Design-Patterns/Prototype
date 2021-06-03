@@ -1,0 +1,16 @@
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\bin\Debug\net5.0\ShallowDeep.exe
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\bin\Debug\net5.0\ShallowDeep.deps.json
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\bin\Debug\net5.0\ShallowDeep.runtimeconfig.json
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\bin\Debug\net5.0\ShallowDeep.runtimeconfig.dev.json
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\bin\Debug\net5.0\ShallowDeep.dll
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\bin\Debug\net5.0\ref\ShallowDeep.dll
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\bin\Debug\net5.0\ShallowDeep.pdb
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ShallowDeep.csprojAssemblyReference.cache
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ShallowDeep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ShallowDeep.AssemblyInfoInputs.cache
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ShallowDeep.AssemblyInfo.cs
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ShallowDeep.csproj.CoreCompileInputs.cache
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ShallowDeep.dll
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ref\ShallowDeep.dll
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ShallowDeep.pdb
+C:\Users\Alban\source\repos\ShallowDeep\ShallowDeep\obj\Debug\net5.0\ShallowDeep.genruntimeconfig.cache
