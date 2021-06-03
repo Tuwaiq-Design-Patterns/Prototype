@@ -1,0 +1,16 @@
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net5.0\PrototypeDesignPattern.exe
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net5.0\PrototypeDesignPattern.deps.json
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net5.0\PrototypeDesignPattern.runtimeconfig.json
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net5.0\PrototypeDesignPattern.runtimeconfig.dev.json
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net5.0\PrototypeDesignPattern.dll
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net5.0\ref\PrototypeDesignPattern.dll
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\bin\Debug\net5.0\PrototypeDesignPattern.pdb
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\PrototypeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\PrototypeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\PrototypeDesignPattern.AssemblyInfo.cs
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\PrototypeDesignPattern.dll
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\ref\PrototypeDesignPattern.dll
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\PrototypeDesignPattern.pdb
+C:\Users\Adel_Kalu\source\repos\PrototypeDesignPattern\PrototypeDesignPattern\obj\Debug\net5.0\PrototypeDesignPattern.genruntimeconfig.cache
