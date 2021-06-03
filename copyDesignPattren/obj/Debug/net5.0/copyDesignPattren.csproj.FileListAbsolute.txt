@@ -1,0 +1,16 @@
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\bin\Debug\net5.0\copyDesignPattren.exe
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\bin\Debug\net5.0\copyDesignPattren.deps.json
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\bin\Debug\net5.0\copyDesignPattren.runtimeconfig.json
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\bin\Debug\net5.0\copyDesignPattren.runtimeconfig.dev.json
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\bin\Debug\net5.0\copyDesignPattren.dll
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\bin\Debug\net5.0\ref\copyDesignPattren.dll
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\bin\Debug\net5.0\copyDesignPattren.pdb
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\copyDesignPattren.csprojAssemblyReference.cache
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\copyDesignPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\copyDesignPattren.AssemblyInfoInputs.cache
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\copyDesignPattren.AssemblyInfo.cs
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\copyDesignPattren.csproj.CoreCompileInputs.cache
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\copyDesignPattren.dll
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\ref\copyDesignPattren.dll
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\copyDesignPattren.pdb
+C:\Users\Norah\source\repos\copyDesignPattren\copyDesignPattren\obj\Debug\net5.0\copyDesignPattren.genruntimeconfig.cache
