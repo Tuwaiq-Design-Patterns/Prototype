@@ -1,0 +1,12 @@
+/Users/rawabeebrahim/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.deps.json
+/Users/rawabeebrahim/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.runtimeconfig.json
+/Users/rawabeebrahim/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.runtimeconfig.dev.json
+/Users/rawabeebrahim/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.dll
+/Users/rawabeebrahim/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.pdb
+/Users/rawabeebrahim/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.csprojAssemblyReference.cache
+/Users/rawabeebrahim/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.AssemblyInfoInputs.cache
+/Users/rawabeebrahim/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.AssemblyInfo.cs
+/Users/rawabeebrahim/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.csproj.CoreCompileInputs.cache
+/Users/rawabeebrahim/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.dll
+/Users/rawabeebrahim/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.pdb
+/Users/rawabeebrahim/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.genruntimeconfig.cache
