@@ -1,0 +1,16 @@
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.exe
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.deps.json
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.runtimeconfig.json
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.runtimeconfig.dev.json
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.dll
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\bin\Debug\net5.0\ref\PrototypeDesign.dll
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\bin\Debug\net5.0\PrototypeDesign.pdb
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.csprojAssemblyReference.cache
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.AssemblyInfoInputs.cache
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.AssemblyInfo.cs
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.csproj.CoreCompileInputs.cache
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.dll
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\ref\PrototypeDesign.dll
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.pdb
+C:\Users\a-22_\RiderProjects\PrototypeDesign\PrototypeDesign\obj\Debug\net5.0\PrototypeDesign.genruntimeconfig.cache
