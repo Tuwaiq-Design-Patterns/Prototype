@@ -1,0 +1,16 @@
+C:\Users\amalf\source\repos\DesignPatren2\bin\Debug\net5.0\DesignPatren2.exe
+C:\Users\amalf\source\repos\DesignPatren2\bin\Debug\net5.0\DesignPatren2.deps.json
+C:\Users\amalf\source\repos\DesignPatren2\bin\Debug\net5.0\DesignPatren2.runtimeconfig.json
+C:\Users\amalf\source\repos\DesignPatren2\bin\Debug\net5.0\DesignPatren2.runtimeconfig.dev.json
+C:\Users\amalf\source\repos\DesignPatren2\bin\Debug\net5.0\DesignPatren2.dll
+C:\Users\amalf\source\repos\DesignPatren2\bin\Debug\net5.0\ref\DesignPatren2.dll
+C:\Users\amalf\source\repos\DesignPatren2\bin\Debug\net5.0\DesignPatren2.pdb
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\DesignPatren2.csprojAssemblyReference.cache
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\DesignPatren2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\DesignPatren2.AssemblyInfoInputs.cache
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\DesignPatren2.AssemblyInfo.cs
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\DesignPatren2.csproj.CoreCompileInputs.cache
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\DesignPatren2.dll
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\ref\DesignPatren2.dll
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\DesignPatren2.pdb
+C:\Users\amalf\source\repos\DesignPatren2\obj\Debug\net5.0\DesignPatren2.genruntimeconfig.cache
