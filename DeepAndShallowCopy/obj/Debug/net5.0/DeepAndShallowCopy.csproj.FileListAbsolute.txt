@@ -1,0 +1,16 @@
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\bin\Debug\net5.0\DeepAndShallowCopy.exe
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\bin\Debug\net5.0\DeepAndShallowCopy.deps.json
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\bin\Debug\net5.0\DeepAndShallowCopy.runtimeconfig.json
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\bin\Debug\net5.0\DeepAndShallowCopy.runtimeconfig.dev.json
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\bin\Debug\net5.0\DeepAndShallowCopy.dll
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\bin\Debug\net5.0\ref\DeepAndShallowCopy.dll
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\bin\Debug\net5.0\DeepAndShallowCopy.pdb
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\DeepAndShallowCopy.csprojAssemblyReference.cache
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\DeepAndShallowCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\DeepAndShallowCopy.AssemblyInfoInputs.cache
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\DeepAndShallowCopy.AssemblyInfo.cs
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\DeepAndShallowCopy.csproj.CoreCompileInputs.cache
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\DeepAndShallowCopy.dll
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\ref\DeepAndShallowCopy.dll
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\DeepAndShallowCopy.pdb
+C:\Users\aashq\source\repos\DeepAndShallowCopy\DeepAndShallowCopy\obj\Debug\net5.0\DeepAndShallowCopy.genruntimeconfig.cache
