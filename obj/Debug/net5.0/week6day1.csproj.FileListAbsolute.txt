@@ -1,0 +1,16 @@
+D:\Tuwaiq\ClassDesignPattern\week6day1\bin\Debug\net5.0\week6day1.exe
+D:\Tuwaiq\ClassDesignPattern\week6day1\bin\Debug\net5.0\week6day1.deps.json
+D:\Tuwaiq\ClassDesignPattern\week6day1\bin\Debug\net5.0\week6day1.runtimeconfig.json
+D:\Tuwaiq\ClassDesignPattern\week6day1\bin\Debug\net5.0\week6day1.runtimeconfig.dev.json
+D:\Tuwaiq\ClassDesignPattern\week6day1\bin\Debug\net5.0\week6day1.dll
+D:\Tuwaiq\ClassDesignPattern\week6day1\bin\Debug\net5.0\ref\week6day1.dll
+D:\Tuwaiq\ClassDesignPattern\week6day1\bin\Debug\net5.0\week6day1.pdb
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\week6day1.csprojAssemblyReference.cache
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\week6day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\week6day1.AssemblyInfoInputs.cache
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\week6day1.AssemblyInfo.cs
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\week6day1.csproj.CoreCompileInputs.cache
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\week6day1.dll
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\ref\week6day1.dll
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\week6day1.pdb
+D:\Tuwaiq\ClassDesignPattern\week6day1\obj\Debug\net5.0\week6day1.genruntimeconfig.cache
