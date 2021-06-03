@@ -1,0 +1,16 @@
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\bin\Debug\net5.0\Shallow.exe
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\bin\Debug\net5.0\Shallow.deps.json
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\bin\Debug\net5.0\Shallow.runtimeconfig.json
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\bin\Debug\net5.0\Shallow.runtimeconfig.dev.json
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\bin\Debug\net5.0\Shallow.dll
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\bin\Debug\net5.0\ref\Shallow.dll
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\bin\Debug\net5.0\Shallow.pdb
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\Shallow.csprojAssemblyReference.cache
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\Shallow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\Shallow.AssemblyInfoInputs.cache
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\Shallow.AssemblyInfo.cs
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\Shallow.csproj.CoreCompileInputs.cache
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\Shallow.dll
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\ref\Shallow.dll
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\Shallow.pdb
+C:\Users\IBRA\RiderProjects\Shallow\Shallow\obj\Debug\net5.0\Shallow.genruntimeconfig.cache
