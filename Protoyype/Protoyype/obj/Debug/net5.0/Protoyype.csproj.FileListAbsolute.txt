@@ -1,0 +1,16 @@
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\Protoyype.csprojAssemblyReference.cache
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\Protoyype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\Protoyype.AssemblyInfoInputs.cache
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\Protoyype.AssemblyInfo.cs
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\Protoyype.csproj.CoreCompileInputs.cache
+C:\Users\temx3\source\repos\Protoyype\Protoyype\bin\Debug\net5.0\Protoyype.exe
+C:\Users\temx3\source\repos\Protoyype\Protoyype\bin\Debug\net5.0\Protoyype.deps.json
+C:\Users\temx3\source\repos\Protoyype\Protoyype\bin\Debug\net5.0\Protoyype.runtimeconfig.json
+C:\Users\temx3\source\repos\Protoyype\Protoyype\bin\Debug\net5.0\Protoyype.runtimeconfig.dev.json
+C:\Users\temx3\source\repos\Protoyype\Protoyype\bin\Debug\net5.0\Protoyype.dll
+C:\Users\temx3\source\repos\Protoyype\Protoyype\bin\Debug\net5.0\ref\Protoyype.dll
+C:\Users\temx3\source\repos\Protoyype\Protoyype\bin\Debug\net5.0\Protoyype.pdb
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\Protoyype.dll
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\ref\Protoyype.dll
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\Protoyype.pdb
+C:\Users\temx3\source\repos\Protoyype\Protoyype\obj\Debug\net5.0\Protoyype.genruntimeconfig.cache
