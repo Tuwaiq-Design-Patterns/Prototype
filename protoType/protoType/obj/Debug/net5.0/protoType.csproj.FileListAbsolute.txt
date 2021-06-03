@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\protoType.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\protoType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\protoType.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\protoType.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\protoType.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\bin\Debug\net5.0\protoType.exe
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\bin\Debug\net5.0\protoType.deps.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\bin\Debug\net5.0\protoType.runtimeconfig.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\bin\Debug\net5.0\protoType.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\bin\Debug\net5.0\protoType.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\bin\Debug\net5.0\ref\protoType.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\bin\Debug\net5.0\protoType.pdb
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\protoType.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\ref\protoType.dll
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\protoType.pdb
+C:\Users\HP\Desktop\Tuwaiq_Bootcamp\Design patterns\Prototype\protoType\protoType\obj\Debug\net5.0\protoType.genruntimeconfig.cache
