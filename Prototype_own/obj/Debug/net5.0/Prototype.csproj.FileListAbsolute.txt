@@ -1,0 +1,16 @@
+/home/z/tuwaiq/design_patterns/Prototype/bin/Debug/net5.0/Prototype
+/home/z/tuwaiq/design_patterns/Prototype/bin/Debug/net5.0/Prototype.deps.json
+/home/z/tuwaiq/design_patterns/Prototype/bin/Debug/net5.0/Prototype.runtimeconfig.json
+/home/z/tuwaiq/design_patterns/Prototype/bin/Debug/net5.0/Prototype.runtimeconfig.dev.json
+/home/z/tuwaiq/design_patterns/Prototype/bin/Debug/net5.0/Prototype.dll
+/home/z/tuwaiq/design_patterns/Prototype/bin/Debug/net5.0/ref/Prototype.dll
+/home/z/tuwaiq/design_patterns/Prototype/bin/Debug/net5.0/Prototype.pdb
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/Prototype.csproj.AssemblyReference.cache
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/Prototype.AssemblyInfoInputs.cache
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/Prototype.AssemblyInfo.cs
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/Prototype.csproj.CoreCompileInputs.cache
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/Prototype.dll
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/ref/Prototype.dll
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/Prototype.pdb
+/home/z/tuwaiq/design_patterns/Prototype/obj/Debug/net5.0/Prototype.genruntimeconfig.cache
