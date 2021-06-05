@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ObjectCopyTest/1.0.0": {
+        "runtime": {
+          "ObjectCopyTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectCopyTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

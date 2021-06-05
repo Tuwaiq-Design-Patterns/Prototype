@@ -1,0 +1,16 @@
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\bin\Debug\net5.0\ObjectCopyTest.exe
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\bin\Debug\net5.0\ObjectCopyTest.deps.json
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\bin\Debug\net5.0\ObjectCopyTest.runtimeconfig.json
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\bin\Debug\net5.0\ObjectCopyTest.runtimeconfig.dev.json
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\bin\Debug\net5.0\ObjectCopyTest.dll
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\bin\Debug\net5.0\ref\ObjectCopyTest.dll
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\bin\Debug\net5.0\ObjectCopyTest.pdb
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ObjectCopyTest.csprojAssemblyReference.cache
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ObjectCopyTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ObjectCopyTest.AssemblyInfoInputs.cache
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ObjectCopyTest.AssemblyInfo.cs
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ObjectCopyTest.csproj.CoreCompileInputs.cache
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ObjectCopyTest.dll
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ref\ObjectCopyTest.dll
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ObjectCopyTest.pdb
+D:\Developing\Rider\projects\ObjectCopyTest\ObjectCopyTest\obj\Debug\net5.0\ObjectCopyTest.genruntimeconfig.cache
